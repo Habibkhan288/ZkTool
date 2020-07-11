@@ -8,7 +8,7 @@ Step1.
 First You Have To Apply The Following Commands
 pkg update
 pkg upgrade
-pkg install fit
+pkg install git
 pkg install python
 pkg install python2
 pip2 install requests
